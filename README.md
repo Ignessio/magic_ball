@@ -7,7 +7,11 @@
 
 # Usage
 
-  Download file into local driver. Ask a simple question and run `ruby magic_ball.rb` in terminal window to see the answer.
+  Download file into local driver. Ask a simple question and run
+  ```ruby
+  $ ruby main.rb
+  ```
+  in terminal window to see the answer.
 _____________________________________________________________________________________
 # Описание
 
@@ -18,4 +22,8 @@ ________________________________________________________________________________
 
 # Использование
 
-  Загрузите в локальную директорию на ПК. Задайте простой вопрос и запустите программу `ruby magic_ball.rb` в окне терминал, чтобы увидеть ответ.
+  Загрузите в локальную директорию на ПК. Задайте простой вопрос и запустите программу
+  ```ruby
+  $ ruby main.rb
+  ```
+  в окне терминал, чтобы увидеть ответ.
